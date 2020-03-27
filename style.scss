@@ -7,7 +7,6 @@
 
 @import "reset";
 @import "variables";
-@import "mvp.css";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -20,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $crimsontext;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
